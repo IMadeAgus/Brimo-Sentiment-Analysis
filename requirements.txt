@@ -1,0 +1,8 @@
+pandas
+matplotlib
+requests
+joblib
+nltk
+Sastrawi
+scikit-learn
+google-play-scraper
